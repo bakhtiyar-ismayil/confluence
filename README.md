@@ -1,5 +1,5 @@
 `
-https://github.com/bakhtiyar-ismayil/confluence.git
+git clone https://github.com/bakhtiyar-ismayil/confluence.git
 `
 
 `
